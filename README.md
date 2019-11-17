@@ -3,6 +3,6 @@
 projet testowy do przecwiczenie obslugi systemu kkontroli wersji GIT
 
 
-**update zrobiny IDE**
+**update zrobiny w IDE**
 
-![alt text](C:\Users\tmarecik\Downloads\indeks.png "Logo Title Text 1")
+![alt text](graphic/indeks.png "Logo Title Text 1")
